@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ibkay998
 - 👀 I’m interested in Crytocurrencies,Python,React,FastApi,Django,Angular,Algorithms.
-- 🌱 I’m currently learning Algorithms,FastApi,Django,Angular.
+- 🌱 I’m currently learning Algorithms,FastApi,Django,Angular,React.
 - 💞️ I’m looking to collaborate on React,Django and Angular Projects.
 - 📫 How to reach me @ibkay998
 
